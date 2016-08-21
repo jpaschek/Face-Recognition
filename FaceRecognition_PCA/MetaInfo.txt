@@ -1,7 +1,7 @@
 Name of Quantlet: FaceRecognition_PCA
 Published in: unpublished
 Description: Use Principle Component Analysis to project the data into subspace to reduce the dimension greatly and get the eigenfaces which are corresponding to the eigenvalues of original dataset.
-Keywords: PCA, dimension-reduction, principal-components, principal-component-analysis
+Keywords: PCA, dimension-reduction, principal-components, principal-component-analysis, face-recognition
 Author: Xiaofei Xu, Janice Paschek 
 Submitted: Sunday, August 21 2016 by Janice Paschek
 Datafile: faces.txt
