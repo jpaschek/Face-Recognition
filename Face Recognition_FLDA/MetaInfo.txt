@@ -1,0 +1,8 @@
+Name of Quantlet: FaceRecognition_FLDA
+Published in: unpublished
+Description: Classifies if a greyscale picture belongs to a particular person by using Fisher Linear Discrimination Analysis as classification algorithm.
+Keywords: Fisher LDA projection, classification, Fisher
+Author: Xiaofei Xu, Janice Paschek 
+Submitted: Sunday, August 21 2016 by Janice Paschek
+Datafile: newfaces1.txt
+Input: Datafile consists of 400 pictures belonging to 10 persons. The dimension for the images should be reduced before. 
