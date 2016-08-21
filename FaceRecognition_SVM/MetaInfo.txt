@@ -3,7 +3,7 @@ Name of Quantlet: FaceRecognition_SVM
 
 Published in: unpublished
 Description: Classifies if a greyscale picture belongs to a particular person by using Support Vector Machines as classification algorithm.
-Keywords: SVM, classification
+Keywords: SVM, classification, face-recognition, support-vector-machines, supervised-learning
 See also: PCA
 Author: Xiaofei Xu, Janice Paschek 
 Submitted: Sunday, August 21 2016 by Janice Paschek
