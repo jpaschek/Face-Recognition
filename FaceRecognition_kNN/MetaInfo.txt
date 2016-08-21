@@ -2,7 +2,7 @@
 Name of Quantlet: FaceRecognition_kNN
 Published in: unpublished
 Description: Classifies if a greyscale picture belongs to a particular person by using k-Nearest Neighbour as classification algorithm.
-Keywords: classification
+Keywords: classification, kNN, k-Nearest-Neighbour, face-recognition, k-NN
 See also: PCA
 Author: Xiaofei Xu, Janice Paschek 
 Submitted: Sunday, August 21 2016 by Janice Paschek
