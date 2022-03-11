@@ -4,7 +4,7 @@ library(mclust)
 library(gmodels)
 
 # read in the face data (after dimension reduction is done)
-faces = read.table("datafile")
+faces = read.table("faces.txt")
 
 # preprocessing for kNN Algorithm (normalize)
 normalize = function(x) {
